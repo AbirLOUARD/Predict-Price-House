@@ -1,4 +1,4 @@
-# BuyHouse
+# Predict the Price of a house
 
 
 ## Table of contents
@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This algorithm predict the price of the house's standards
+This algorithm predicts the price of the house's standards
 you want from the data.
 
 ## Technologies
