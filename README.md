@@ -22,5 +22,5 @@ Python 3.7
 In your Terminal
 
 ```
-git clone https://github.com/AbirLOUARD/BuyHouse.git
+git clone https://github.com/AbirLOUARD/Predict-Price-House.git
 ```
